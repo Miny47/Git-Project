@@ -11,4 +11,8 @@ public class GitMain {
 	public void login() {
 		
 	}
+	
+	public void login() {
+		// 로그인
+	}
 }
